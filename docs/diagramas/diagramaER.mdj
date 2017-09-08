@@ -75,7 +75,8 @@
 									"underline": false,
 									"text": "Maceta",
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -278,7 +279,8 @@
 									"underline": false,
 									"text": "Logsluminocidad",
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -433,7 +435,8 @@
 									"underline": false,
 									"text": "LogsHumedad",
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -582,13 +585,14 @@
 									"containerExtending": false,
 									"left": 288,
 									"top": 61,
-									"width": 123.91357421875,
+									"width": 152.0908203125,
 									"height": 13,
 									"autoResize": false,
 									"underline": false,
 									"text": "User",
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -620,7 +624,7 @@
 											"containerExtending": false,
 											"left": 293,
 											"top": 84,
-											"width": 113.91357421875,
+											"width": 142.0908203125,
 											"height": 13,
 											"autoResize": false
 										},
@@ -644,7 +648,7 @@
 											"containerExtending": false,
 											"left": 293,
 											"top": 99,
-											"width": 113.91357421875,
+											"width": 142.0908203125,
 											"height": 13,
 											"autoResize": false
 										},
@@ -668,7 +672,7 @@
 											"containerExtending": false,
 											"left": 293,
 											"top": 114,
-											"width": 113.91357421875,
+											"width": 142.0908203125,
 											"height": 13,
 											"autoResize": false
 										},
@@ -692,7 +696,7 @@
 											"containerExtending": false,
 											"left": 293,
 											"top": 129,
-											"width": 113.91357421875,
+											"width": 142.0908203125,
 											"height": 13,
 											"autoResize": false
 										},
@@ -716,7 +720,7 @@
 											"containerExtending": false,
 											"left": 293,
 											"top": 144,
-											"width": 113.91357421875,
+											"width": 142.0908203125,
 											"height": 13,
 											"autoResize": false
 										},
@@ -740,7 +744,7 @@
 											"containerExtending": false,
 											"left": 293,
 											"top": 159,
-											"width": 113.91357421875,
+											"width": 142.0908203125,
 											"height": 13,
 											"autoResize": false
 										},
@@ -764,7 +768,7 @@
 											"containerExtending": false,
 											"left": 293,
 											"top": 174,
-											"width": 113.91357421875,
+											"width": 142.0908203125,
 											"height": 13,
 											"autoResize": false
 										}
@@ -780,7 +784,7 @@
 									"containerExtending": false,
 									"left": 288,
 									"top": 79,
-									"width": 123.91357421875,
+									"width": 152.0908203125,
 									"height": 113,
 									"autoResize": false
 								}
@@ -796,7 +800,7 @@
 							"containerExtending": false,
 							"left": 288,
 							"top": 56,
-							"width": 123.91357421875,
+							"width": 152.0908203125,
 							"height": 136,
 							"autoResize": false,
 							"nameLabel": {
@@ -839,7 +843,8 @@
 									"underline": false,
 									"text": "LogsValvula",
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -994,7 +999,8 @@
 									"underline": false,
 									"text": "LogsTemperatura",
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -1149,7 +1155,8 @@
 									"underline": false,
 									"text": "Plantas",
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -1285,7 +1292,8 @@
 									"edgePosition": 1,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1315,7 +1323,8 @@
 									"edgePosition": 2,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1345,7 +1354,8 @@
 									"edgePosition": 0,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								}
 							],
 							"visible": true,
@@ -1413,7 +1423,8 @@
 									"edgePosition": 1,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1443,7 +1454,8 @@
 									"edgePosition": 2,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1473,7 +1485,8 @@
 									"edgePosition": 0,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								}
 							],
 							"visible": true,
@@ -1541,7 +1554,8 @@
 									"edgePosition": 1,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1571,7 +1585,8 @@
 									"edgePosition": 2,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1601,7 +1616,8 @@
 									"edgePosition": 0,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								}
 							],
 							"visible": true,
@@ -1669,7 +1685,8 @@
 									"edgePosition": 1,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1699,7 +1716,8 @@
 									"edgePosition": 2,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1729,7 +1747,8 @@
 									"edgePosition": 0,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								}
 							],
 							"visible": true,
@@ -1797,7 +1816,8 @@
 									"edgePosition": 1,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1827,7 +1847,8 @@
 									"edgePosition": 2,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1857,7 +1878,8 @@
 									"edgePosition": 0,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								}
 							],
 							"visible": true,
@@ -1925,7 +1947,8 @@
 									"edgePosition": 1,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1955,7 +1978,8 @@
 									"edgePosition": 2,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -1985,7 +2009,8 @@
 									"edgePosition": 0,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								}
 							],
 							"visible": true,
@@ -2048,7 +2073,8 @@
 									"underline": false,
 									"text": "Fotos",
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -2208,7 +2234,8 @@
 									"edgePosition": 1,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2238,7 +2265,8 @@
 									"edgePosition": 2,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2268,7 +2296,8 @@
 									"edgePosition": 0,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								}
 							],
 							"visible": true,
@@ -2331,7 +2360,8 @@
 									"underline": false,
 									"text": "libroUser",
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -2462,7 +2492,8 @@
 									"underline": false,
 									"text": "Libros",
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -2705,7 +2736,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 493,
+									"left": 507,
 									"top": 93,
 									"width": 0,
 									"height": 13,
@@ -2718,7 +2749,8 @@
 									"edgePosition": 1,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2735,7 +2767,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 436,
+									"left": 464,
 									"top": 93,
 									"width": 0,
 									"height": 13,
@@ -2748,7 +2780,8 @@
 									"edgePosition": 2,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2778,7 +2811,8 @@
 									"edgePosition": 0,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								}
 							],
 							"visible": true,
@@ -2797,7 +2831,7 @@
 								"$ref": "AAAAAAFd9xR/yqmiX0k="
 							},
 							"lineStyle": 2,
-							"points": "411:114;576:114",
+							"points": "439:114;576:114",
 							"nameLabel": {
 								"$ref": "AAAAAAFd9yaEHavLGXg="
 							},
@@ -2846,7 +2880,8 @@
 									"edgePosition": 1,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2876,7 +2911,8 @@
 									"edgePosition": 2,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2906,7 +2942,8 @@
 									"edgePosition": 0,
 									"underline": false,
 									"horizontalAlignment": 2,
-									"verticalAlignment": 5
+									"verticalAlignment": 5,
+									"wordWrap": false
 								}
 							],
 							"visible": true,
@@ -3352,7 +3389,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFd9xR/yamgU9Q="
 							},
-							"name": "pass",
+							"name": "contraseña",
 							"length": 0,
 							"primaryKey": false,
 							"foreignKey": false,
@@ -3378,7 +3415,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFd9xR/yamgU9Q="
 							},
-							"name": "correo",
+							"name": "email",
 							"length": 0,
 							"primaryKey": false,
 							"foreignKey": false,
@@ -3417,7 +3454,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFd9xR/yamgU9Q="
 							},
-							"name": "cumpleaños",
+							"name": "fechaNacimiento",
 							"length": 0,
 							"primaryKey": false,
 							"foreignKey": false,
